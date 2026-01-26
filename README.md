@@ -27,6 +27,7 @@ The Multilingual Mandi is a modern, AI-powered digital marketplace platform desi
 Select your preferred language or use voice input to speak in your native tongue.
 
 ![Language Selection](./screenshots/language-selection.png)
+![Language Selection](./screenshots/Dashboard.jpg)
 
 ### Role Selection
 Choose your role as a Vendor or Buyer with localized content.
